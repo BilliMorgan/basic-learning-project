@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'basic-learning-project';
 
   loadedFeature = 'recipe';
-  onNavigate(feature: string) {
-    this.loadedFeature = feature;
-  }
+  // onNavigate(feature: string) {
+  //   this.loadedFeature = feature;
+  // }
 }
